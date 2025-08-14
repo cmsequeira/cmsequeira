@@ -2,8 +2,8 @@
 
 Hello! My name is Tianna Sequeira and I am interested in learning about all things software, electronics, and system design!
 
-🔧 I'm currently wrapping up my Bachelor’s Degree in Sustainable Energy Engineering (Honors), with a minor in International Studies <br/>
-🚀 I'm fascinated by how we can build technology to protect our planet 🌍 — and then take those innovations to explore beyond it 🌌 <br/>
+🔧 I'm currently wrapping up my Bachelor’s Degree in Sustainable Energy Engineering (Honours), with a minor in International Studies <br/>
+🚀 I'm fascinated by how we can build technology to protect our planet 🌍 - and then take those innovations to explore beyond it 🌌 <br/>
 
 My main interests: <br/>
 
@@ -12,7 +12,7 @@ My main interests: <br/>
 🌱 Bridging the gap between environmental tech and space innovation <br/>
 📡 Dreaming big about a future in the aerospace sector <br/>
 
-Let’s build a better world — here and out there. 👩‍🚀✨
+Let’s build a better world - here and out there. 👩‍🚀✨
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@tsequoia) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/christianna-sequeira/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cmarie.sequeira@gmail.com) 
